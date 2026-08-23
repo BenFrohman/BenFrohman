@@ -1,16 +1,21 @@
-## Hi there 👋
+# Benjamin Stanley Frohman
 
-<!--
-**BenFrohman/BenFrohman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent researcher. Originator of **Frohmanian Symplectohydrodynamics (FSymHD)** — a geometric completion of fluid phase space: symplectic tether, metriplectic fusion control, holographic duals.
 
-Here are some ideas to get you started:
+Lewisville / Frisco, Texas · [Observatory](https://fsymhd-production.up.railway.app) · [ORCID](https://orcid.org/0009-0006-7068-3718) · [X \@Investor0x](https://x.com/Investor0x) · [LinkedIn](https://www.linkedin.com/in/benfrohman-inv0x)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Support this work
+
+Independent research, Lean formalization, and the public observatory are funded by the author. If the work is useful, you can sponsor it on GitHub — **100% of personal-account sponsorships go to the author** (GitHub takes no fee on those).
+
+[![Sponsor Benjamin Frohman](https://img.shields.io/github/sponsors/BenFrohman?label=Sponsor&logo=github)](https://github.com/sponsors/BenFrohman)
+
+**[github.com/sponsors/BenFrohman](https://github.com/sponsors/BenFrohman)**
+
+Original FSymHD writing is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): commercial use with attribution to Benjamin Stanley Frohman.
+
+## Public corpus
+
+- **[NS_Millennium_Proof](https://github.com/BenFrohman/NS_Millennium_Proof)** — Lean 4 formalization of the Frohmanian Symplectic Tether (priority snapshot; not a completed proof)
+- **[frohmanian-ns-symplectic-tether](https://github.com/BenFrohman/frohmanian-ns-symplectic-tether)** — landing page for the program
+- **[frohmanian-tether-manuscript-2026-06-01](https://github.com/BenFrohman/frohmanian-tether-manuscript-2026-06-01)** — earliest public manuscript record (June 2026)
