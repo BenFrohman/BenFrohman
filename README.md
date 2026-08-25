@@ -6,11 +6,14 @@ Lewisville / Frisco, Texas · [Observatory](https://fsymhd-production.up.railway
 
 ## Support this work
 
-Independent research, Lean formalization, and the public observatory are funded by the author. If the work is useful, you can sponsor it on GitHub — **100% of personal-account sponsorships go to the author** (GitHub takes no fee on those).
+Independent research, Lean formalization, and the public observatory are funded by the author. If the work is useful:
+
+- **[GitHub Sponsors](https://github.com/sponsors/BenFrohman)** — 100% of personal-account sponsorships go to the author (GitHub takes no fee on those).
+- **[Ko-fi · Frohmanian](https://ko-fi.com/benfrohman)** — one-off coffee or membership.
 
 [![Sponsor Benjamin Frohman](https://img.shields.io/github/sponsors/BenFrohman?label=Sponsor&logo=github)](https://github.com/sponsors/BenFrohman)
 
-**[github.com/sponsors/BenFrohman](https://github.com/sponsors/BenFrohman)**
+**[github.com/sponsors/BenFrohman](https://github.com/sponsors/BenFrohman)** · **[ko-fi.com/benfrohman](https://ko-fi.com/benfrohman)**
 
 Original FSymHD writing is [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/): commercial use with attribution to Benjamin Stanley Frohman.
 
