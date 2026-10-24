@@ -40,3 +40,7 @@ Original FSymHD writing is [CC BY 4.0](https://creativecommons.org/licenses/by/4
 - **[NS_Millennium_Proof](https://github.com/BenFrohman/NS_Millennium_Proof)** — Lean 4 formalization of the Frohmanian Symplectic Tether (priority snapshot; not a completed proof)
 - **[frohmanian-ns-symplectic-tether](https://github.com/BenFrohman/frohmanian-ns-symplectic-tether)** — landing page for the program
 - **[frohmanian-tether-manuscript-2026-06-01](https://github.com/BenFrohman/frohmanian-tether-manuscript-2026-06-01)** — earliest public manuscript record (June 2026)
+
+## License
+
+Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0 (see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE)).
