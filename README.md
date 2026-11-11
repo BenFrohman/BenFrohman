@@ -44,3 +44,7 @@ Original FSymHD writing is [CC BY 4.0](https://creativecommons.org/licenses/by/4
 ## License
 
 Copyright (c) 2026 Benjamin Stanley Frohman. Licensed under the Apache License, Version 2.0 (see [`LICENSE`](LICENSE) and [`NOTICE`](NOTICE)).
+
+## Citation
+
+Cite this work with [`CITATION.cff`](CITATION.cff) (GitHub's "Cite this repository" button).
