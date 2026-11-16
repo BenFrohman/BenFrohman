@@ -20,7 +20,7 @@ limitations under the License.
 
 Independent researcher. Originator of **Frohmanian Symplectohydrodynamics (FSymHD)** — a geometric completion of fluid phase space: symplectic tether, metriplectic fusion control, holographic duals.
 
-Lewisville / Frisco, Texas · [Observatory](https://symplectorilabs.com) · [ORCID](https://orcid.org/0009-0006-7068-3718) · [X \@Investor0x](https://x.com/Investor0x) · [LinkedIn](https://www.linkedin.com/in/benfrohman-inv0x)
+Lewisville / Frisco, Texas · [Observatory](https://symplectorilabs.com) · [ORCID](https://orcid.org/0009-0006-7068-3718) · [X \@Frohmanian](https://x.com/Frohmanian) · [LinkedIn](https://www.linkedin.com/in/benfrohman-inv0x)
 
 ## Support this work
 
